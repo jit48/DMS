@@ -72,8 +72,8 @@ const modelSchema = z.object({
 const mockModels = [
   {
     id: "MODEL-001",
-    modelName: "Honda City",
-    variant: "VX",
+    modelName: "Maruti Suzuki Fronx",
+    variant: "VXI",
     fuelType: "Petrol",
     mileage: 17.8,
     transmission: "Manual",
@@ -88,7 +88,7 @@ const mockModels = [
   },
   {
     id: "MODEL-002",
-    modelName: "Toyota Camry",
+    modelName: "Maruti Suzuki Baleno",
     variant: "Hybrid",
     fuelType: "Hybrid",
     mileage: 23.27,

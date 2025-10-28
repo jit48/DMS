@@ -71,8 +71,8 @@ const colorSchema = z.object({
 
 // Mock data
 const mockModels = [
-  { id: "MODEL-001", modelName: "Honda City", variant: "VX" },
-  { id: "MODEL-002", modelName: "Toyota Camry", variant: "Hybrid" },
+  { id: "MODEL-001", modelName: "Maruti Suzuki Fronx", variant: "VXI" },
+  { id: "MODEL-002", modelName: "Maruti Suzuki Baleno", variant: "Hybrid" },
   { id: "MODEL-003", modelName: "Maruti Swift", variant: "ZXI" },
 ];
 
@@ -81,7 +81,7 @@ const mockColors = [
     id: "COLOR-001",
     colorName: "Pearl White",
     modelId: "MODEL-001",
-    modelName: "Honda City",
+    modelName: "Maruti Suzuki Fronx",
     colorCode: "#FFFFFF",
     approxAvailableDate: "2024-02-15",
     isAvailable: true,
@@ -93,7 +93,7 @@ const mockColors = [
     id: "COLOR-002",
     colorName: "Metallic Silver",
     modelId: "MODEL-001",
-    modelName: "Honda City",
+    modelName: "Maruti Suzuki Fronx",
     colorCode: "#C0C0C0",
     approxAvailableDate: "2024-02-20",
     isAvailable: true,
@@ -105,7 +105,7 @@ const mockColors = [
     id: "COLOR-003",
     colorName: "Midnight Black",
     modelId: "MODEL-002",
-    modelName: "Toyota Camry",
+    modelName: "Maruti Suzuki Baleno",
     colorCode: "#000000",
     approxAvailableDate: "2024-02-25",
     isAvailable: true,
