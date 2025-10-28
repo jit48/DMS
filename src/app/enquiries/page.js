@@ -67,13 +67,13 @@ const mockCustomers = [
 const mockModels = [
   {
     id: "MODEL-001",
-    modelName: "Honda City",
-    variant: "VX",
+    modelName: "Maruti Suzuki Fronx",
+    variant: "VXI",
     fuelType: "Petrol",
   },
   {
     id: "MODEL-002",
-    modelName: "Toyota Camry",
+    modelName: "Maruti Suzuki Baleno",
     variant: "Hybrid",
     fuelType: "Hybrid",
   },

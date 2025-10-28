@@ -84,7 +84,7 @@ const mockOrders = [
   {
     id: "ORD-20240115-001",
     customerName: "John Doe",
-    modelName: "Honda City",
+    modelName: "Maruti Suzuki Fronx",
     billingAddress: "123 Main Street, Mumbai",
     billingCity: "Mumbai",
     billingState: "Maharashtra",
@@ -95,7 +95,7 @@ const mockOrders = [
   {
     id: "ORD-20240114-002",
     customerName: "Jane Smith",
-    modelName: "Toyota Camry",
+    modelName: "Maruti Suzuki Baleno",
     billingAddress: "456 Park Avenue, Delhi",
     billingCity: "Delhi",
     billingState: "Delhi",
