@@ -114,13 +114,13 @@ const mockEnquiries = [
     id: "ENQ-001",
     customerId: "CUST-001",
     customerName: "John Doe",
-    modelName: "Honda City",
+    modelName: "Maruti Suzuki Fronx",
   },
   {
     id: "ENQ-002",
     customerId: "CUST-002",
     customerName: "Jane Smith",
-    modelName: "Toyota Camry",
+    modelName: "Maruti Suzuki Baleno",
   },
 ];
 
